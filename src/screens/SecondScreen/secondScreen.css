@@ -1,0 +1,89 @@
+.SecondScreen {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.second-wrapper {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 350px;
+    margin-right: 120px;
+}
+.second-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.second-img {
+    margin-right: 80px;
+}
+.second-decr {
+    display: block;
+    margin: 40px auto;
+    padding-bottom: 60px;
+    max-width: 590px;
+    font-size: 14px;
+    text-align: center;
+}
+.second-line {
+    display: flex;
+    justify-content: center;
+    
+} 
+.second-menu-carts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 170px;
+    margin-top: 60px;
+}
+.second-carts-item {
+    width: 220px;
+    height: 260px;
+}
+.second-filter {
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+}
+.second-wrapper-filter {
+    display: flex;
+    justify-content: center;
+}
+.second-lookiing-for {
+    margin-right: 83px;
+}
+.second-filter-btn {
+    width: 75px;
+    height: 30px;
+    box-shadow: 5px 5px 15px 0px rgb(177, 175, 175);
+    
+    margin: 0 5px;
+    border-width: 0px;
+    background-color: white;
+}
+.second-filter-title {
+    margin-right: 35px;
+}
+.second-input-placeholdr {
+    height: 30px;
+    width: 180px;
+    border-width: 0px;
+    box-shadow: 5px 5px 15px 0px rgb(177, 175, 175);
+    text-align: center;
+    margin-left: 19px;
+    border-radius: 5px;
+}
+
+.left {
+    border-radius: 5px 0 0 5px;
+}
+.right {
+    border-radius: 0 5px 5px 0;
+}
+.middle {
+    border-radius: 0px;
+}
